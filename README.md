@@ -73,12 +73,14 @@ price than what it is today.
 # Firect_V2:
 
 
-![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187674896-e08d7d4e-2ee0-4b53-b6a9-4fd15aefc566.jpg)![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187674909-62cc32cd-b396-40d5-b32c-9554b71e4c24.jpg)
+![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187674896-e08d7d4e-2ee0-4b53-b6a9-4fd15aefc566.jpg  =250x250)
+![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187674909-62cc32cd-b396-40d5-b32c-9554b71e4c24.jpg  =250x250)
 
 
 # Firect_V1:
 
-![Screenshot_20220112-201839_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png)![Screenshot_20220112-201923_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png)
+![Screenshot_20220112-201839_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png  =250x250)
+![Screenshot_20220112-201923_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png  =250x250)
 
 
 
