@@ -1,1 +1,2 @@
-# Firect-Connecting Farmers & Consumers
+# Firect
+## Connecting Farmers and Consumers
