@@ -79,8 +79,10 @@ price than what it is today.
 
 # Firect_V1:
 
-![Screenshot_20220112-201839_Firect_samsung-galaxys20-cosmicgrey-portrait|width=100px](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png)
-![Screenshot_20220112-201923_Firect_samsung-galaxys20-cosmicgrey-portrait|width=100px](https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png)
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png)" width="100" height="100">
+
+<img src="(https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png" width="100" height="100">
 
 
 
