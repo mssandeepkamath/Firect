@@ -8,11 +8,14 @@
 ● Farmers usually sell their produce at MSP in APMC, which will be just enough
 to make a living.So we plan to increase the farmers income by buying
 produce at a price upto 50% more than that of MSP.
+
 ● We aim to deliver the goods fresh to Consumers, so we store in the
 distribution centre only for a maximum of 24hrs.
+
 ● We plan to tie up with chains of restaurants,Paying Guests and hotels so that
 we always have a stable order coming on a daily-basis and also prevents
 wastage.
+
 ● Since majority of the vegetables and fruits are still sold Offline, Our main aim
 would be to convert the existing offline customers to the Online platform.So
 we tie up with local vegetable vendors and make them as an partner and pay
@@ -48,28 +51,35 @@ collaborate with buy now,pay later fintech companies.
 
 ● We don't store produce for more than 24 hours, thereby always delivering
 fresh.
+
 ● We plan to market strategically by using vendors to convert the existing offline
 customers to online
+
 ● We have a unique delivery system, where we use freelancers for delivering
 the produce and also providing employment to our youth.
+
 ● Both farmers and Consumers are getting more profitted than the conventional
 ways.
+
 ● We plan to network with large businesses such as hotels,PG’s(B2B) which
 will help us scale up.
+
 ● We always prioritise organic goods and also aim to sell at a much cheaper
 price than what it is today.
 
 ### Screenshots:
 
-Firect_V1:
 
-![Screenshot_20220112-201839_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png)
-![Screenshot_20220112-201923_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png)
-
-Firect_V2:
+# Firect_V2:
 
 
-![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187674896-e08d7d4e-2ee0-4b53-b6a9-4fd15aefc566.jpg)
-![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187674909-62cc32cd-b396-40d5-b32c-9554b71e4c24.jpg)
+![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187674896-e08d7d4e-2ee0-4b53-b6a9-4fd15aefc566.jpg)![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187674909-62cc32cd-b396-40d5-b32c-9554b71e4c24.jpg)
+
+
+# Firect_V1:
+
+![Screenshot_20220112-201839_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png)![Screenshot_20220112-201923_Firect_samsung-galaxys20-cosmicgrey-portrait](https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png)
+
+
 
 
