@@ -71,18 +71,16 @@ price than what it is today.
 
 
 # Firect_V2:
+![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187676820-fbdc1dd2-245d-4825-8edd-4882fa9d5f22.jpg)
 
 
-![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187674896-e08d7d4e-2ee0-4b53-b6a9-4fd15aefc566.jpg  =250x250)
-![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187674909-62cc32cd-b396-40d5-b32c-9554b71e4c24.jpg  =250x250)
+![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187676842-c4d929df-4cd4-4035-b1eb-eb1b307d632f.jpg)
 
 
 # Firect_V1:
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/90695071/187674545-d4b19259-95de-4daa-af74-c12f909ecaf9.png)" width="100" height="100">
 
-<img src="(https://user-images.githubusercontent.com/90695071/187674570-1caad0da-bb9a-4a5a-bb1b-f2071ed35465.png" width="100" height="100">
 
 
 
