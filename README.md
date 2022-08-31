@@ -72,10 +72,7 @@ price than what it is today.
 
 # Firect_V2(2022):
 
-
-![photo_2022-08-31_17-38-03](https://user-images.githubusercontent.com/90695071/187674896-e08d7d4e-2ee0-4b53-b6a9-4fd15aefc566.jpg  =250x250)
-![photo_2022-08-31_17-37-58](https://user-images.githubusercontent.com/90695071/187674909-62cc32cd-b396-40d5-b32c-9554b71e4c24.jpg  =250x250)
-
+![Untitled design (1)](https://user-images.githubusercontent.com/90695071/187686785-7a4840dc-de15-4fa7-bcb4-dc3a51da473d.png)
 
 # Firect_V1(2021):
 
