@@ -78,3 +78,9 @@ price than what it is today.
 
 <img width="1080" alt="Untitled design (5)" src="https://user-images.githubusercontent.com/90695071/187938957-b9f9bec9-1638-4339-9879-dd05a2f091ef.png">
 
+## License:
+
+                             Apache License
+                       Version 2.0, January 2004
+                    http://www.apache.org/licenses/
+
